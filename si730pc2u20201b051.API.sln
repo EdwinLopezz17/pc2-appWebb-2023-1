@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travels.API", "Travels.API\Travels.API.csproj", "{F0B886F6-F00D-4F8A-9C36-3672A173C8C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travels.Domain", "Travels.Domain\Travels.Domain.csproj", "{8F8D5886-7C9B-4ABA-A7FA-BDA8EC4DE4C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travels.Infraestructure", "Travels.Infraestructure\Travels.Infraestructure.csproj", "{434A49E5-4084-4494-B0A8-8DCB660E2C23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0B886F6-F00D-4F8A-9C36-3672A173C8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B886F6-F00D-4F8A-9C36-3672A173C8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B886F6-F00D-4F8A-9C36-3672A173C8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B886F6-F00D-4F8A-9C36-3672A173C8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F8D5886-7C9B-4ABA-A7FA-BDA8EC4DE4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8D5886-7C9B-4ABA-A7FA-BDA8EC4DE4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8D5886-7C9B-4ABA-A7FA-BDA8EC4DE4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8D5886-7C9B-4ABA-A7FA-BDA8EC4DE4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{434A49E5-4084-4494-B0A8-8DCB660E2C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434A49E5-4084-4494-B0A8-8DCB660E2C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434A49E5-4084-4494-B0A8-8DCB660E2C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434A49E5-4084-4494-B0A8-8DCB660E2C23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

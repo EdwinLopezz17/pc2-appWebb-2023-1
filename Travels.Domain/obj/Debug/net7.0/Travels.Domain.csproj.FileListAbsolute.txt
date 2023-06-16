@@ -1,0 +1,15 @@
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\bin\Debug\net7.0\Travels.Domain.deps.json
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\bin\Debug\net7.0\Travels.Domain.dll
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\bin\Debug\net7.0\Travels.Domain.pdb
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\bin\Debug\net7.0\Travels.Infraestructure.dll
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\bin\Debug\net7.0\Travels.Infraestructure.pdb
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\obj\Debug\net7.0\Travels.Domain.csproj.AssemblyReference.cache
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\obj\Debug\net7.0\Travels.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\obj\Debug\net7.0\Travels.Domain.AssemblyInfoInputs.cache
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\obj\Debug\net7.0\Travels.Domain.AssemblyInfo.cs
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\obj\Debug\net7.0\Travels.Domain.csproj.CoreCompileInputs.cache
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\obj\Debug\net7.0\Travels.Domain.csproj.CopyComplete
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\obj\Debug\net7.0\Travels.Domain.dll
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\obj\Debug\net7.0\refint\Travels.Domain.dll
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\obj\Debug\net7.0\Travels.Domain.pdb
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Domain\obj\Debug\net7.0\ref\Travels.Domain.dll

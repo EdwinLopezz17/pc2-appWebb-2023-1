@@ -1,0 +1,14 @@
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\bin\Debug\net7.0\Travels.Infraestructure.deps.json
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\bin\Debug\net7.0\Travels.Infraestructure.runtimeconfig.json
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\bin\Debug\net7.0\Travels.Infraestructure.dll
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\bin\Debug\net7.0\Travels.Infraestructure.pdb
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\obj\Debug\net7.0\Travels.Infraestructure.csproj.AssemblyReference.cache
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\obj\Debug\net7.0\Travels.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\obj\Debug\net7.0\Travels.Infraestructure.AssemblyInfoInputs.cache
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\obj\Debug\net7.0\Travels.Infraestructure.AssemblyInfo.cs
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\obj\Debug\net7.0\Travels.Infraestructure.csproj.CoreCompileInputs.cache
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\obj\Debug\net7.0\Travels.Infraestructure.dll
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\obj\Debug\net7.0\refint\Travels.Infraestructure.dll
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\obj\Debug\net7.0\Travels.Infraestructure.pdb
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\obj\Debug\net7.0\Travels.Infraestructure.genruntimeconfig.cache
+E:\Proyectos RIDER\Aplicaciones Web\si730pc2u20201b051.API\Travels.Infraestructure\obj\Debug\net7.0\ref\Travels.Infraestructure.dll
